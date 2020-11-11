@@ -1,0 +1,19 @@
+@media (min-width:451px){
+}
+
+@media (max-width:450px){
+}
+.container {
+    width: 95%;
+    display: flex;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.formulario {
+
+}
+.appear {
+    background-color: rgba(151,212,148,1.00);
+}
